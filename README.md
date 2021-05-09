@@ -1,3 +1,8 @@
+# Sobre o projeto:
+Conta com 3 controllers: **Cliente, produto e WishList**
+É necessário criar um cliente e um produto ao menos, para se adicionar um item
+na wishlist de um cliente.
+
 # Ferramentas usadas para o desenvolvimento:
 |Ferramenta | Uso |
 | ------------- | ------------- |
@@ -6,16 +11,10 @@
 | ![](https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png)  | Swagger - Documentação da Api |
 | ![](http://pngimg.com/uploads/mysql/small/mysql_PNG23.png)  |Mysql - Banco de dados|
 | ![](https://huongdanjava.com/wp-content/uploads/2018/01/spring-data.png)  |Spring Data JPA - conexão com o banco de dados|
-| ![](https://www.chartjs.org/img/chartjs-logo.svg)  |Chart.js - Geração dos gráficos|
+| ![](https://www.chartjs.org/img/chartjs-logo.svg)  |Chart.js - Geração dos gráficos
 
 
 
-
-
-#Sobre o projeto:
-Conta com 3 controllers: **Cliente, produto e WishList**
-É necessário criar um cliente e um produto ao menos, para se adicionar um item
-na wishlist de um cliente.
 
 # Api - Endpoint disponiveis
 Visualização dos endpoints disponiveis via swagger:
@@ -24,10 +23,10 @@ Visualização dos endpoints disponiveis via swagger:
 ![](https://i.ibb.co/Tcp0wD0/Wishlist-Controller.png)
 
 # Web -  Algumas imagens
-**Gráfico com os 5 produtos mais pedidos **
+**Gráfico com os 5 produtos mais pedidos**
 ![](https://i.ibb.co/7nQzPYd/Horizontal-Chart.png)
 
-**Gráfico com os 5 clientes com mais itens em suas WishLists **
+**Gráfico com os 5 clientes com mais itens em suas WishLists**
 ![](https://i.ibb.co/DgxM3mg/BarChart.png)
 
 **Cadastro de Cliente**
