@@ -1,3 +1,7 @@
+# Integrantes
+**Giovanna Polissici - 081180009**
+**Isabela Vilas Boas - 081180016**
+
 # Sobre o projeto:
 Conta com 3 controllers: **Cliente, produto e WishList**
 É necessário criar um cliente e um produto ao menos, para se adicionar um item
