@@ -27,7 +27,7 @@ Visualização dos endpoints disponiveis via swagger:
 ![](https://i.ibb.co/Tcp0wD0/Wishlist-Controller.png)
 
 # Web -  Algumas imagens
-**Gráfico com os 5 produtos mais pedidos**
+**Gráfico com os 5 produtos mais adicionados na wish**
 ![](https://i.ibb.co/7nQzPYd/Horizontal-Chart.png)
 
 **Gráfico com os 5 clientes com mais itens em suas WishLists**
